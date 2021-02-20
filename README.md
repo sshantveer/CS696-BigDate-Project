@@ -1,5 +1,5 @@
 ### Big Data Class Project 
-### Analyze the effect Elon Musk's tweets on Tesla stock price.
+### Analyze the effect of Elon Musk's tweets on Tesla stock price.
     - Using data set available from kaggle
         - Elon Musk tweets from 2012 to 2017 https://www.kaggle.com/kulgen/elon-musks-tweets
             - This contains all tweets made by @elonmusk, his official Twitter handle, between 11/16/2012 and 09/29/2017.
